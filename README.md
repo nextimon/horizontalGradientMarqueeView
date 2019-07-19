@@ -1,0 +1,2 @@
+# horizontalGradientMarqueeView
+horizontalGradientMarqueeView, swift
