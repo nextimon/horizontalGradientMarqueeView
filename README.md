@@ -4,5 +4,5 @@ horizontalGradientMarqueeView, swift
 ![alt text](https://github.com/nextimon/horizontalGradientMarqueeView/blob/master/sample.png)
 
 
-![](https://github.com/nextimon/horizontalGradientMarqueeView/blob/master/sample.mov)
+![alt text](https://github.com/nextimon/horizontalGradientMarqueeView/blob/master/sample.gif)
 
